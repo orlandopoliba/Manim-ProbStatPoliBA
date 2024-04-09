@@ -1,0 +1,69 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Poisson/da80fdf8150acf66efb25bca707063adbf900e351826167ed515d9670704d808.mp4",
+      "rev_file": "slides/files/Poisson/da80fdf8150acf66efb25bca707063adbf900e351826167ed515d9670704d808_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Poisson/1b3cd0b6736e73f6643bb9b9474810e63c666ff7cf13e1f7b9048b81a6f0595f.mp4",
+      "rev_file": "slides/files/Poisson/1b3cd0b6736e73f6643bb9b9474810e63c666ff7cf13e1f7b9048b81a6f0595f_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Poisson/04428d0a0723b68f1a6b66b729197eba0f258792e822f2112f9b092bb9281ad5.mp4",
+      "rev_file": "slides/files/Poisson/04428d0a0723b68f1a6b66b729197eba0f258792e822f2112f9b092bb9281ad5_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Poisson/2caba51cc08f2881e32268dfb840cd622ce17fd15844bd6508e752c031fdfe70.mp4",
+      "rev_file": "slides/files/Poisson/2caba51cc08f2881e32268dfb840cd622ce17fd15844bd6508e752c031fdfe70_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Poisson/8d0ac7a525d5d463e560b37c7e48d68544016e9f09ef870495df07edb556cff1.mp4",
+      "rev_file": "slides/files/Poisson/8d0ac7a525d5d463e560b37c7e48d68544016e9f09ef870495df07edb556cff1_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Poisson/b947e168ba546e88c88377e8658646e89a1ce98bc8a9d96a8dc996d585e82fc0.mp4",
+      "rev_file": "slides/files/Poisson/b947e168ba546e88c88377e8658646e89a1ce98bc8a9d96a8dc996d585e82fc0_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

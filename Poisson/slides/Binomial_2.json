@@ -1,0 +1,29 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Binomial_2/9e8f6477d366090f2b2783909ec9ac57c3e061cfd9a6b9b61d7dcec003b1bde7.mp4",
+      "rev_file": "slides/files/Binomial_2/9e8f6477d366090f2b2783909ec9ac57c3e061cfd9a6b9b61d7dcec003b1bde7_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Binomial_2/1979b68989f75c6439a0161705c30d1bbb799311b1f14ed957377555a1c7eca0.mp4",
+      "rev_file": "slides/files/Binomial_2/1979b68989f75c6439a0161705c30d1bbb799311b1f14ed957377555a1c7eca0_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

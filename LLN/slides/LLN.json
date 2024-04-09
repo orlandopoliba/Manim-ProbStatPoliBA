@@ -1,0 +1,109 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LLN/07104941657d94ff083f023b1ccebf5176a1d1aeea3b8581c9298d971bdbe249.mp4",
+      "rev_file": "slides/files/LLN/07104941657d94ff083f023b1ccebf5176a1d1aeea3b8581c9298d971bdbe249_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LLN/ff0ecd48d4fc726f7c1e83247b151e67c8161ce84be0194ec850b290e506f4f2.mp4",
+      "rev_file": "slides/files/LLN/ff0ecd48d4fc726f7c1e83247b151e67c8161ce84be0194ec850b290e506f4f2_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LLN/41da8c1a06252b4d8c6d6dee315c2b073fb9eb22d72130b740e4fe096034c63c.mp4",
+      "rev_file": "slides/files/LLN/41da8c1a06252b4d8c6d6dee315c2b073fb9eb22d72130b740e4fe096034c63c_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LLN/b3bc7d2422fb64b0276f5c743730c8cfbda7fb90c9131e4f6d5425634fe7eabd.mp4",
+      "rev_file": "slides/files/LLN/b3bc7d2422fb64b0276f5c743730c8cfbda7fb90c9131e4f6d5425634fe7eabd_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LLN/82662600ed7952210b14410508d3cdacff484d4fb28a96fdebb3aed871a9955f.mp4",
+      "rev_file": "slides/files/LLN/82662600ed7952210b14410508d3cdacff484d4fb28a96fdebb3aed871a9955f_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LLN/940e879a53de02a21379e8e2f137eea3a85706c1be8682d07fd321e0ca68c6e3.mp4",
+      "rev_file": "slides/files/LLN/940e879a53de02a21379e8e2f137eea3a85706c1be8682d07fd321e0ca68c6e3_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LLN/cfe5b545624e32281193e5534f72e937c4142ade5d05e4dd8f701eb3d4eaaffe.mp4",
+      "rev_file": "slides/files/LLN/cfe5b545624e32281193e5534f72e937c4142ade5d05e4dd8f701eb3d4eaaffe_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LLN/ee0102ffecd0cb48f379401a365ed1081c2f6d322bda1d93a2af57916db24606.mp4",
+      "rev_file": "slides/files/LLN/ee0102ffecd0cb48f379401a365ed1081c2f6d322bda1d93a2af57916db24606_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LLN/4f594fe61ca6b09d925b1e227be4b9e2edbdf0e42bb5d03fb38627c7100039be.mp4",
+      "rev_file": "slides/files/LLN/4f594fe61ca6b09d925b1e227be4b9e2edbdf0e42bb5d03fb38627c7100039be_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LLN/cfe1c46f04e029f476850d8fa7c24e91502b9e69e034260fe069b26303adb4fd.mp4",
+      "rev_file": "slides/files/LLN/cfe1c46f04e029f476850d8fa7c24e91502b9e69e034260fe069b26303adb4fd_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}
