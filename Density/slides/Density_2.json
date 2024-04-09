@@ -1,0 +1,29 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Density_2/259dd478e1240c9caab57e1c39aca15c693830484d36aed06757a030c116e4f8.mp4",
+      "rev_file": "slides/files/Density_2/259dd478e1240c9caab57e1c39aca15c693830484d36aed06757a030c116e4f8_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Density_2/2d3130fa97a086c89600d8ab42c1fd329e3cc8e0e487a0c5ed74088d2d32c6a3.mp4",
+      "rev_file": "slides/files/Density_2/2d3130fa97a086c89600d8ab42c1fd329e3cc8e0e487a0c5ed74088d2d32c6a3_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}
