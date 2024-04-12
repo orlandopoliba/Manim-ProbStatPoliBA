@@ -6,3 +6,4 @@
 - [Legge geometrica](https://orlandopoliba.github.io/Manim-ProbStatPoliBA/Geometric/Geometric.html)
 - [Funzione di densità di probabilità](https://orlandopoliba.github.io/Manim-ProbStatPoliBA/Density/Density.html)
 - [Legge dei grandi numeri](https://orlandopoliba.github.io/Manim-ProbStatPoliBA/LLN/LLN.html)
+- [Legge di una media campionaria](https://orlandopoliba.github.io/Manim-ProbStatPoliBA/CLT/CLT.html)
