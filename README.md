@@ -1,5 +1,7 @@
 # Manim-ProbStatPoliBA
 
+Link a slide animate:
+
 - [Legge di Bernoulli](https://orlandopoliba.github.io/Manim-ProbStatPoliBA/Bernoulli/Bernoulli.html)
 - [Legge binomiale](https://orlandopoliba.github.io/Manim-ProbStatPoliBA/Binomial/Binomial.html)
 - [Legge di Poisson](https://orlandopoliba.github.io/Manim-ProbStatPoliBA/Poisson/Poisson.html)
